@@ -5,5 +5,5 @@ def main():
     Returns:
         str: return answer.
     """
-    return len("eight")
+    return len("qwertyui")
 print(main()) 
